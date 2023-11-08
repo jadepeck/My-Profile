@@ -12,11 +12,11 @@ const App = () => {
     <>
     <Sidebar />
     <main className='main'>
-      <Home />
+      {/* <Home />
       <About />
       <Services />
       <Resume />
-      <Portfolio />
+      <Portfolio /> */}
     </main>
     </>
   )
