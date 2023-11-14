@@ -1,3 +1,10 @@
+:root {
+  --container-color: #ffffff; /* Set to your desired background color */
+  --shadow: 0 0 50px rgba(0, 0, 0, 0.2); /* Set to your desired box shadow */
+  --border-radius: 50px; /* Set to your desired border radius */
+}
+
+
 .about__img {
   width: 150px;
   height: 150px;
