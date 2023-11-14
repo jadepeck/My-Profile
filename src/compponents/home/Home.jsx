@@ -2,6 +2,8 @@ import React from 'react';
 import "./home.css";
 import Me from "../../assets/122541242 (1).svg";
 import HeaderSocials from './HeaderSocials'
+import ScrollDown from "./ScrollDown";
+import Shapes from "./Shapes";
 
 const Home = () => {
   return (
@@ -12,8 +14,13 @@ const Home = () => {
         <span className="home__education">I'm a Front-End developer
         </span>
 
-        <HeaderSocials/>
+        <HeaderSocials />
+
+        <a href="#contact" className="btn">Hire Me</a>
+
+        <ScrollDown />
       </div>
+        <Shapes />
     </section>
   )
 }

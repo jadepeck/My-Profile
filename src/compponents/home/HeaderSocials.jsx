@@ -14,10 +14,6 @@ const HeaderSocials = () => {
       <a href="https://www.linkedin.com/in/pj-taron/" className="home__social-link" target="_blank">
       <i class="fa-brands fa-linkedin"></i>
       </a>
-
-      <a href="" className="home__social-link" target="_blank">
-      <i class="fa-brands fa-dribble"></i>
-      </a>
     </div>
   )
 }
