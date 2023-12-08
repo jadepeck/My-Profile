@@ -17,6 +17,7 @@ const App = () => {
       <Services />
       <Resume />
       <Portfolio />
+      <Sidebar />
     </main>
     </>
   )
