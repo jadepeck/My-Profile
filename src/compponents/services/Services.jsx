@@ -4,7 +4,9 @@ import "./services.css";
 
 const Services = () => {
   return (
-    <div>Project</div>
+    <h2 className="section__title">
+        Project
+      </h2>
   )
 }
 
