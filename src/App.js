@@ -12,6 +12,7 @@ const App = () => {
     <>
     <Sidebar />
     <main className='main'>
+      <p>testing 123</p>
       <Home />
       <About />
       <Services />
